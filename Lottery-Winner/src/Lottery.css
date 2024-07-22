@@ -1,0 +1,46 @@
+.lottery{
+    border: 2px solid black;
+    border-radius: 20px;
+   height: 7rem;
+   background-color: #1C1F2C;
+   
+   margin-bottom: 3rem;
+}
+.lottery-2{
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+   align-items: center;
+   background-color: #8A4DE3;
+   font-size: 1.4rem;
+   color: #FFFFFF;
+   height: 2.5rem;
+   width: 10rem;
+   border-radius: 18px;
+   transform: translate(55%, -45%);
+   margin-top: 2rem;
+   -webkit-transform: translate(55%, -45%);
+   -moz-transform: translate(55%, -45%);
+   -ms-transform: translate(55%, -45%);
+   -o-transform: translate(55%, -45%);
+}
+.winGreen{
+    color: green;
+}
+/* Lottery.css */
+.green-background {
+    background-color: green;
+  }
+  
+  .ticketnum{
+    color:#FFFFFF ;
+  }
+  h1 {
+    color: #173CD5;
+  }
+  .button{
+    background-color: #5169E3;
+    color: #FFFFFF;
+    height: 3rem;
+    width: 10rem;
+  }
